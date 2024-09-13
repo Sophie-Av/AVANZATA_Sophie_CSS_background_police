@@ -1,20 +1,27 @@
 .div1 {
-    margin: 10%;
-    padding: 10%;
+    padding: 5%;
     background-image: url(background1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .div2 {
-    margin: 10%;
-    padding: 10%;
+    padding: 5%;
     background-image: url(background2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .div3 {
-    margin: 10%;
-    padding: 10%;
+    padding: 5%;
     background-image: url(background3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .div4 {
-    margin: 10%;
-    padding: 10%;
+    padding: 5%;
     background-image: url(background4.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+p {
+    font-family: system-ui;
 }
